@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "648669176675",
+    "firebase_url": "https://memexd-61ae8.firebaseio.com",
+    "project_id": "memexd-61ae8",
+    "storage_bucket": "memexd-61ae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648669176675:android:bac357bc1290178996a956",
+        "android_client_info": {
+          "package_name": "com.pi14.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648669176675-29u95lrlpe8dmgit13s9phb2onmne9nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pi14.adminapp",
+            "certificate_hash": "35ec021837aab7fca325a570f2caff6e8b87942b"
+          }
+        },
+        {
+          "client_id": "648669176675-cs89vv3bfnsn0otnmsncfm9e15blammi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pi14.adminapp",
+            "certificate_hash": "513e6b8ef4c01ad915a5a7fe5715d651e07c9c03"
+          }
+        },
+        {
+          "client_id": "648669176675-6v9p2154c08fmtc4oabil77hs6l12g7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXdwoJ2uNgDosnB3ccf1Io7weRdLvygqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648669176675-6v9p2154c08fmtc4oabil77hs6l12g7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3238635063844895~6467563242"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648669176675:android:5b59af7b3e9980c196a956",
+        "android_client_info": {
+          "package_name": "com.pi14.memexd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648669176675-3vh4f4e5gvvkkmvjb50mbd2aaaunl30l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pi14.memexd",
+            "certificate_hash": "35ec021837aab7fca325a570f2caff6e8b87942b"
+          }
+        },
+        {
+          "client_id": "648669176675-fp9g6a2049u3663aack1qd033p274qdd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pi14.memexd",
+            "certificate_hash": "8f618ed886c826d37e4d7b6ac4a1103f76f1d11c"
+          }
+        },
+        {
+          "client_id": "648669176675-nv6vb6s5bnhtuofeet17rc0d8iss8atp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pi14.memexd",
+            "certificate_hash": "d1ada6ad78dcda822fbfc38684f72a2dfcb60996"
+          }
+        },
+        {
+          "client_id": "648669176675-p0kak4ms5gj9i3r6us9o289f4s63buog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pi14.memexd",
+            "certificate_hash": "a1edbfd7c72e64877e93faa502b34e76a759e399"
+          }
+        },
+        {
+          "client_id": "648669176675-6v9p2154c08fmtc4oabil77hs6l12g7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXdwoJ2uNgDosnB3ccf1Io7weRdLvygqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648669176675-6v9p2154c08fmtc4oabil77hs6l12g7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

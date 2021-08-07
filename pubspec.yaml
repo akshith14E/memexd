@@ -1,0 +1,115 @@
+name: memexd
+description: MemexD
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  bottom_navy_bar: ^6.0.0
+  cached_network_image: ^3.0.0
+  cupertino_icons: ^1.0.0
+  dio: ^4.0.0
+  fast_color_picker: ^0.1.0
+  firebase_analytics: ^8.0.4
+  firebase_auth: ^1.1.4
+  firebase_core: ^1.1.1
+  firebase_crashlytics: ^2.0.6
+  firebase_database: ^7.0.0
+  firebase_in_app_messaging: ^0.5.0+6
+  firebase_messaging: ^10.0.2
+  firebase_remote_config: ^0.10.0
+  firebase_storage: ^8.1.1
+  floating_bottom_navigation_bar: ^1.5.1
+  flutter_email_sender: ^5.0.0
+  flutter_image_compress: ^1.0.0
+  flutter_riverpod: ^0.14.0+3
+  flutter_tabler_icons: ^1.1.1
+  fluttertoast: ^8.0.7
+  google_mobile_ads: ^0.13.2
+
+
+  google_sign_in: ^5.0.3
+  http: ^0.13.3
+  image: ^3.0.2
+  image_cropper: ^1.4.0
+  image_picker: ^0.8.0+1
+  image_pixels: ^2.0.0
+  in_app_review: ^2.0.2
+  internet_connection_checker: ^0.0.1+1
+  intl: 0.17.0
+  modal_progress_hud: ^0.1.3
+  path_provider: ^2.0.2
+  rxdart: ^0.27.0
+  screenshot: ^1.2.1
+  share_plus: ^2.1.4
+  shared_preferences: ^2.0.6
+  url_launcher: ^6.0.4
+  flutter_launcher_icons: ^0.9.0
+  flutter_native_splash: ^1.1.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/
+    - stickers/
+
+  fonts:
+    - family: Boston
+      fonts:
+        - asset: fonts/Boston_Regular.ttf
+
+    - family: Montserrat
+      fonts:
+        - asset: fonts/Montserrat-Regular.ttf
+
+    - family: Acme
+      fonts:
+        - asset: fonts\Font Collections\Acme-Regular.ttf
+    - family: Benne
+      fonts:
+        - asset: fonts\Font Collections\Benne-Regular.ttf
+    - family: BigShoulders
+      fonts:
+        - asset: fonts\Font Collections\BigShouldersStencilDisplay-Regular.ttf
+    - family: Cinzel
+      fonts:
+        - asset: fonts\Font Collections\Cinzel-VariableFont_wght.ttf
+    - family: Fraunces
+      fonts:
+        - asset: fonts\Font Collections\Fraunces-VariableFont_SOFT,WONK,opsz,wght.ttf
+    - family: IndieFlower
+      fonts:
+        - asset: fonts\Font Collections\IndieFlower-Regular.ttf
+    - family: LobsterTwo
+      fonts:
+        - asset: fonts\Font Collections\LobsterTwo-Regular.ttf
+    - family: RobotoMono
+      fonts:
+        - asset: fonts\Font Collections\RobotoMono-VariableFont_wght.ttf
+    - family: ShadowsIntoLight
+      fonts:
+        - asset: fonts\Font Collections\ShadowsIntoLight-Regular.ttf
+    - family: VT323
+      fonts:
+        - asset: fonts\Font Collections\VT323-Regular.ttf
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "images/memexdlogo.png"
+
+flutter_native_splash:
+  image: "images/memexdlogo.png"
+  color: "0d0d0d"
+  fullscreen: true
